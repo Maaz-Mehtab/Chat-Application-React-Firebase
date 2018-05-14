@@ -1,0 +1,79 @@
+body {
+  /* margin: 10; */
+  padding: 0;
+  font-family: sans-serif;
+}
+.borTop{
+  border: 1px solid rgba(128, 128, 128, 0.281);
+  border-top: 5px solid #17A2B8;
+}
+.borTop2{
+  border: 1px solid rgba(128, 128, 128, 0.281);
+  border-top: 5px solid #218838;
+}
+.borBott{
+  /* border-bottom: 10px solid rgba(126, 126, 126, 0.199); */
+  box-shadow: 0px 7px 20px rgba(0, 0, 0, 0.295);
+}
+.colorSignIn{
+  color: #17A2B8;
+}
+.colorSignUp{
+  color: #218838;
+}
+.center{
+  margin:10px;
+}
+.list{
+
+  margin-left:-20px;
+  margin-top:20px;
+  list-style: none;
+  height: 2.8em;
+  font-size: 20px;
+  padding: 10px;
+}
+.delete{
+  float:right;
+  width:90px;
+  height: 2.3em;
+  color:#F44336;
+  border: 1px solid #F44336;
+  background-color: white;
+}
+
+#App-intro {
+  margin-left:350px
+}
+#App-intro input {
+  width:500px;
+  height:1.5em;
+  font-size: 24px;
+}
+
+#App-intro button{
+  width:200px;
+  background-color: #00897B;
+  height: 2.5em;
+  color:white;
+  margin-top:10px;
+  margin-left:35px;
+}
+/* #App-intro #butto {
+  width:200px;
+  background-color: black;
+  height: 2.5em;
+  color:white;
+  margin-top:10px;
+  margin-left:150px;
+} */
+.edit{
+  float:right;
+  width:90px;
+  height: 2.3em;
+  margin:0 10px;
+  color: #FBC02D;
+  border: 1px solid #FBC02D;
+  background-color: white;  
+
+}
