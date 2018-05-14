@@ -1,1 +1,1 @@
-# Chat-Application-React-Firebase
+This repository is all about learning React Router v4 with redux.
